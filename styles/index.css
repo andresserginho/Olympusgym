@@ -1,0 +1,14 @@
+/* Fuentes */
+@import './fonts.css';
+
+/* Variables de diseño */
+@import './theme.css';
+
+/* Animaciones*/
+@import '../css/animations.css';
+
+/* Layout, nav, chat overlay, utilidades */
+@import '../css/globals.css';
+
+/* Botones, cards, inputs, auth, onboarding */
+@import '../css/components.css';
